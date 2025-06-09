@@ -20,7 +20,7 @@
 ### 📊 [Marks-to-GPA Automation](https://github.com/oliahmedkhan/personal-projects/tree/main/marks_project)
 Reads student marks from Excel, calculates GPA/grades, and outputs a polished report. Great for school, university, or freelance automation jobs.
 
-### 🎓 [Student Result Management System](https://github.com/oliahmedkhan/result-system)
+### 🎓 [Student Result Management System](https://github.com/oliahmedkhan/academic-projects/tree/main/BAUST%20Student%20Result%20Management%20System)
 Built with PHP and MySQL – allows teachers to input, update, and view student results. Features admin control and GPA logic based on BAUST rules.
 
 ---
