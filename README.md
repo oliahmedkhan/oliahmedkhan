@@ -17,7 +17,7 @@
 
 ## 📌 Projects
 
-### 📊 [Marks-to-GPA Automation]([https://github.com/oliahmedkhan/marks_project](https://git.new/dub))
+### 📊 [Marks-to-GPA Automation](https://github.com/oliahmedkhan/personal-projects/tree/main/marks_project)
 Reads student marks from Excel, calculates GPA/grades, and outputs a polished report. Great for school, university, or freelance automation jobs.
 
 ### 🎓 [Student Result Management System](https://github.com/oliahmedkhan/result-system)
